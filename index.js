@@ -1,3 +1,12 @@
+var a, b
+
+beforeEach(function() {
+  a = Math.floor(Math.random() * 1000)
+  b = Math.floor(Math.random() * 1000)
+})
+
+
+
 function add(a = 3, b = 3) {
   return (a + b);
 }
