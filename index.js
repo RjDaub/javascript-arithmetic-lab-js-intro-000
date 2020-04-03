@@ -15,6 +15,6 @@ function divide(a = 9, b = 3) {
 }
 
 function add(a = 4, b = 4) {
-  return ++a, ++b; 
+  return ++a, ++b;
 
 }
