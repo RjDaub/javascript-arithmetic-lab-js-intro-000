@@ -1,5 +1,3 @@
-function add(a, b) {
-  a = 5
-  b = 5
-  return (a + b);
+function add(a = 3, b = 2) {
+  return a + b 
 }
