@@ -21,3 +21,7 @@ function increment(n = 5) {
 function decrement(n = 5) {
   return n -= 1
 }
+
+function makeInt(n = "6") {
+    return parseInt("6", 10)
+}
