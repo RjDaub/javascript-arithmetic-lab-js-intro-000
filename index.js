@@ -13,3 +13,7 @@ function multiply(a = 4, b = 4) {
 function divide(a = 9, b = 3) {
   return (a / b);
 }
+
+function add(a = 4, b = 3) {
+  return ++(a , b)
+}
