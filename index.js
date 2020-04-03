@@ -17,4 +17,3 @@ function divide(a = 6, b = 2) {
 function increment(n = 5) {
   return n += 1
 }
-
