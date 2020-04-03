@@ -2,19 +2,14 @@ function add(5 , 3) {
 return (5 + 3);
 }
 
-function subtract(a = 10, b = 7) {
-  return (a - b);
+function subtract(5, 3) {
+  return (5 - 3);
 }
 
-function multiply(a = 4, b = 4) {
-  a * b
+function multiply(5, 3) {
+  return (5 * 3);
 }
 
-function divide(a = 9, b = 3) {
-  return (a / b);
-}
-
-function add(a = 4, b = 4) {
-  return ++a, ++b;
-
+function divide(6, 3) {
+  return (6 / 3);
 }
