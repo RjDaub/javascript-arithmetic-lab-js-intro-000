@@ -25,3 +25,7 @@ function decrement(n = 5) {
 function makeInt(n = "7") {
     return parseInt(n , 10)
 }
+
+function preserveDecimal(n = "8.343342") {
+  return parseFloat(n, 10)
+}
