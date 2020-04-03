@@ -1,5 +1,5 @@
-function add(a = 3, b = 3) {
-  return (a + b);
+function add(5 , 3) {
+return (5 + 3);
 }
 
 function subtract(a = 10, b = 7) {
